@@ -28,4 +28,9 @@ public class GameSceneSelect : MonoBehaviour
         BattlePanel.SetActive(false);
         CharaSelectPanel.SetActive(true);
     }
+
+    public void Onclickbattlestart()
+    {
+        SceneManager.LoadScene("Battle");
+    }
 }
