@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\HomeScenes\Scripts\GameSceneSelect.cs" />
      <Compile Include="Assets\TitleScenes\Script\GameSystem.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/rikay/SilverBoardApp/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
