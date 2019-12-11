@@ -55,6 +55,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BattleScenes\Scripts\CharacterManager.cs" />
+     <Compile Include="Assets\BattleScenes\Scripts\GameManager.cs" />
+     <Compile Include="Assets\BattleScenes\Scripts\MapManager.cs" />
      <Compile Include="Assets\HomeScenes\Scripts\GameSceneSelect.cs" />
      <Compile Include="Assets\TitleScenes\Script\GameSystem.cs" />
  <Reference Include="Unity.Timeline.Editor">
